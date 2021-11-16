@@ -15,5 +15,10 @@ So, this is the logic:
  - Decrease by 1 star,  the number of stars of the attack: If a player attack a opponent village with TH level lower then it self. 
       Ex.: If a th12 attack a th11 (or a th10) and get only 2 stars. In the end of war, the system will count only 1 star, to the final summary.  
  - Increase by 1 star,  the number of stars of the attack: If a player attack a opponent village with TH level lower then it self. 
-      Ex.: If a th12 attack a th13 (or a th14) and get only 2 stars. In the end of war, the system will count only 1 star, to the final summary.
+      Ex.: If a th12 attack a th13 (or a th14) and get only 2 stars. In the end of war, the system will count only 3 star, to the final summary.
+ - If a player don't attack: It will be put in the end of the list of players bonus candidates.
+
+After each war, using the link Results, its possible see how players are performing during the current league.
+
+I think that's all
       
